@@ -1,4 +1,4 @@
-# My Portfolio 📂 👨‍💻 💻
+# My Portfolio 📂
 
 - [Liber App](https://github.com/jesusandres31/liber-app)
 

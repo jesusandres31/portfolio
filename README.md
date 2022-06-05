@@ -1,7 +1,5 @@
 # My Portfolio 📂
 
-- [Beer-Board](https://github.com/jesusandres31/beer-board)
-
 - [Liber App](https://github.com/jesusandres31/liber-app)
 
 - [Nutty App](https://github.com/jesusandres31/nutty-app)

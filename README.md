@@ -3,7 +3,7 @@
 
 - [Liber App](https://github.com/jesusandres31/liber-app)
 
-- [Beer Board Manual Inventory](https://github.com/jesusandres31/beer-board)
+- [BeerBoard Manual Inventory](https://github.com/jesusandres31/beerboard-manual-inventory)
 
 - [Nutty App](https://github.com/jesusandres31/nutty-app)
 

@@ -1,5 +1,6 @@
 # My Portfolio 📂
 
+- [Data Engineering project](https://github.com/jesusandres31/data-engineering-coki)
 
 - [Liber App](https://github.com/jesusandres31/liber-app)
 

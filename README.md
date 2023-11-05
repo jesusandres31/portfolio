@@ -2,24 +2,21 @@
 
 - [Data Engineering project](https://github.com/jesusandres31/data-engineering-coki)
 
-- [Liber App](https://github.com/jesusandres31/liber-app)
+- [Liber App](projects/liber-app/README.md)
 
-- [BeerBoard Manual Inventory](https://github.com/jesusandres31/beerboard-manual-inventory)
+- [BeerBoard Manual Inventory](projects/beerboard-manual-inventory/README.md)
 
-- [Nutty App](https://github.com/jesusandres31/nutty-app)
+- [Remify App](projects/remify-app/README.md)
 
-- [Remify App](https://github.com/jesusandres31/remify-app/)
+- [Nutty App](projects/nutty-app/README.md)
 
-- [Ctes F5 Calendar-Wpp-Bot](https://github.com/jesusandres31/corrientes-futbol-5/)
+- [Ctes F5 Calendar-Wpp-Bot](projects/corrientes-futbol-5/README.md)
 
 - [Coki-Demon Wpp Bot](https://github.com/jesusandres31/coki-demon/)
-
-- [Linux Scripts](https://github.com/jesusandres31/devops/)
 
 - [Coki System](https://github.com/jesusandres31/C-Sharp-dotnet-WinForms-App)
 
 - [E-Commerce](https://github.com/jesusandres31/LAMP-webstore-app-guitar-pedals)
-
 
 <!---
 -->

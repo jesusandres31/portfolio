@@ -22,7 +22,7 @@
 
 # Diplomas 📜
 
-- [System Informations Degree](diplomas/titulo.zini_jesus_andres.pdf)
+- [Systems Information Degree](diplomas/titulo.zini_jesus_andres.pdf)
 
 - [JCSA2023. JESUSZINI](diplomas/JCSA2023.%20JESUSZINI.pdf)
 

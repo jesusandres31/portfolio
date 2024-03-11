@@ -4,6 +4,8 @@
 
 [Liber App](projects/liber-app/README.md)
 
+[Ctes F5 App](projects/ctes-f5-app/README.md)
+
 [BeerBoard Manual Inventory](projects/beerboard-manual-inventory/README.md)
 
 [Remify App](projects/remify-app/README.md)
@@ -12,9 +14,9 @@
 
 [ddash - Docker Web Dashboard](https://github.com/jesusandres31/ddash-docker-web-dashboard)
 
-[Ctes F5 Calendar-Wpp-Bot](projects/corrientes-futbol-5/README.md)
+[Ctes F5 Bot (Calendar, Whatsapp)](projects/ctes-f5-wpp-bot/README.md)
 
-[Coki-Demon Wpp Bot](https://github.com/jesusandres31/coki-demon/)
+[Coki-Demon Whatsapp-Bot](https://github.com/jesusandres31/coki-demon/)
 
 [Coki System](https://github.com/jesusandres31/C-Sharp-dotnet-WinForms-App)
 

@@ -1,4 +1,4 @@
-# Projects 📁
+# Projects 🚀
 
 | Project Name                     | Link                                                                       |
 | -------------------------------- | -------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | E-Commerce                       | [GitHub](https://github.com/jesusandres31/LAMP-webstore-app-guitar-pedals) |
 | SysAdmin                         | [GitHub](https://github.com/jesusandres31/sysadmin)                        |
 
-# Diplomas 📜
+# Diplomas 🎓
 
 | Diploma                    | Link                                             |
 | -------------------------- | ------------------------------------------------ |
@@ -23,7 +23,7 @@
 | JCSA2023. JESUSZINI        | [PDF](src/diplomas/JCSA2023.%20JESUSZINI.pdf)    |
 | EF SET (English cert)      | [EF SET](https://cert.efset.org/TKFvb6)          |
 
-# Presentations 📊
+# Presentations 📑
 
 | Presentation                                                  | Link                                                                                    |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- |

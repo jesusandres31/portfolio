@@ -17,6 +17,22 @@
 
 # Diplomas 🎓
 
+<table style="width:100%; text-align:center;">
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data Engineering Project 🚀</td>
+      <td><a href="https://github.com/jesusandres31/data-engineering-coki">GitHub</a></td>
+    </tr>
+    <!-- Agrega más filas aquí -->
+  </tbody>
+</table>
+
 | Diploma                    | Link                                             |
 | -------------------------- | ------------------------------------------------ |
 | Systems Information Degree | [PDF](src/diplomas/titulo.zini_jesus_andres.pdf) |

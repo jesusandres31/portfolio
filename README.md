@@ -15,23 +15,7 @@
 | E-Commerce                       | [GitHub](https://github.com/jesusandres31/LAMP-webstore-app-guitar-pedals) |
 | SysAdmin                         | [GitHub](https://github.com/jesusandres31/sysadmin)                        |
 
-# Diplomas 🎓
-
-<table style="width:100%; text-align:center;">
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Data Engineering Project 🚀</td>
-      <td><a href="https://github.com/jesusandres31/data-engineering-coki">GitHub</a></td>
-    </tr>
-    <!-- Agrega más filas aquí -->
-  </tbody>
-</table>
+# Diplomas 🎓 
 
 | Diploma                    | Link                                             |
 | -------------------------- | ------------------------------------------------ |

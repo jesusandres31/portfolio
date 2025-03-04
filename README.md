@@ -11,8 +11,8 @@
 | ddash - Docker Web Dashboard     | [GitHub](https://github.com/jesusandres31/ddash-docker-web-dashboard)      |
 | Ctes F5 Bot (Calendar, Whatsapp) | [README](src/projects/ctes-f5-wpp-bot/README.md)                           |
 | Coki-Demon Whatsapp-Bot          | [GitHub](https://github.com/jesusandres31/coki-demon/)                     |
-| Coki System                      | [GitHub](https://github.com/jesusandres31/C-Sharp-dotnet-WinForms-App)     |
-| E-Commerce                       | [GitHub](https://github.com/jesusandres31/LAMP-webstore-app-guitar-pedals) |
+| C# Coki System                      | [GitHub](https://github.com/jesusandres31/C-Sharp-dotnet-WinForms-App)     |
+| PHP E-Commerce                       | [GitHub](https://github.com/jesusandres31/LAMP-webstore-app-guitar-pedals) |
 | SysAdmin                         | [GitHub](https://github.com/jesusandres31/sysadmin)                        |
 
 # Diplomas 🎓 

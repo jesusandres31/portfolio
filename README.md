@@ -17,11 +17,12 @@
 
 # Diplomas 📜
 
-| Diploma                    | Link                                             |
-| -------------------------- | ------------------------------------------------ |
-| Systems Information Degree | [PDF](src/diplomas/titulo.zini_jesus_andres.pdf) |
-| JCSA2023. JESUSZINI        | [PDF](src/diplomas/JCSA2023.%20JESUSZINI.pdf)    |
-| EF SET (English cert)      | [EF SET](https://cert.efset.org/TKFvb6)          |
+| Diploma                    | Link                                               |
+| -------------------------- | -------------------------------------------------- |
+| Systems Information Degree | [PDF](src/diplomas/titulo.zini_jesus_andres.pdf)   |
+| JCSA2023. JESUSZINI        | [PDF](src/diplomas/JCSA2023.%20JESUSZINI.pdf)      |
+| JCSA2024. JESUSZINI        | [PDF](src/diplomas/JesusZINI._firmado_firmado.pdf) |
+| EF SET (English cert)      | [EF SET](https://cert.efset.org/TKFvb6)            |
 
 # Presentations 📊
 

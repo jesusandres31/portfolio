@@ -2,7 +2,7 @@
 
 | Project Name                     | Link                                                                       |
 | -------------------------------- | -------------------------------------------------------------------------- |
-| Data Engineering project         | [GitHub](https://github.com/jesusandres31/data-engineering-coki)           |
+| Airflow & MS Access              | [GitHub](https://github.com/jesusandres31/data-engineering-coki)           |
 | Liber App                        | [README](src/projects/liber-app/README.md)                                 |
 | Ctes F5 App                      | [README](src/projects/ctes-f5-app/README.md)                               |
 | BeerBoard Manual Inventory       | [README](src/projects/beerboard-manual-inventory/README.md)                |

@@ -15,14 +15,28 @@
 | PHP E-Commerce                   | [GitHub](https://github.com/jesusandres31/LAMP-webstore-app-guitar-pedals) |
 | SysAdmin                         | [GitHub](https://github.com/jesusandres31/sysadmin)                        |
 
-# Diplomas 🎓 
+---
 
-| Diploma                    | Link                                               |
-| -------------------------- | -------------------------------------------------- |
-| Systems Information Degree | [PDF](src/diplomas/titulo.zini_jesus_andres.pdf)   |
-| JCSA2023. JESUSZINI        | [PDF](src/diplomas/JCSA2023.%20JESUSZINI.pdf)      |
-| JCSA2024. JESUSZINI        | [PDF](src/diplomas/JesusZINI._firmado_firmado.pdf) |
-| EF SET (English cert)      | [EF SET](https://cert.efset.org/TKFvb6)            |
+# Diplomas 🎓
+
+| Diploma                                   | Link                                                 |
+| ----------------------------------------- | ---------------------------------------------------- |
+| Data Science Diploma                      | [PDF](src/diplomas/Zini_Jesus_Andres_diplodatos.pdf) |
+| Information Systems Technology Specialist | [PDF](src/diplomas/titulo-especializacion.pdf)       |
+| Information Systems Degree                | [PDF](src/diplomas/titulo.zini_jesus_andres.pdf)     |
+| JCSA2024. JESUSZINI                       | [PDF](src/diplomas/JesusZINI._firmado_firmado.pdf)   |
+| JCSA2023. JESUSZINI                       | [PDF](src/diplomas/JCSA2023.%20JESUSZINI.pdf)        |
+
+---
+
+# IT Certifications 💻
+
+| Certifications                   | Link                                                                                     |
+| -------------------------------- | ---------------------------------------------------------------------------------------- |
+| AWS Certified Cloud Practitioner | [CLF-C02](https://www.credly.com/badges/0f037eec-914c-48e6-b1cb-7fc87f0ce1c6/public_url) |
+| EF SET (English cert)            | [EF SET](https://cert.efset.org/TKFvb6)                                                  |
+
+---
 
 # Presentations 📑
 

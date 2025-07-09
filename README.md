@@ -2,12 +2,13 @@
 
 | Project Name                     | Link                                                                       |
 | -------------------------------- | -------------------------------------------------------------------------- |
+| Ctes F5 App                      | [README](src/projects/ctes-f5-app/README.md)                               |
+| Chacobras ChatBot LLM RAG        | [README](src/projects/chacobras/README.md)                                 |
+| BeerBoard Manual Inventory       | [README](src/projects/beerboard-manual-inventory/README.md)                |
 | Airflow & MS Access              | [GitHub](https://github.com/jesusandres31/data-engineering-coki)           |
 | Liber App                        | [README](src/projects/liber-app/README.md)                                 |
-| Ctes F5 App                      | [README](src/projects/ctes-f5-app/README.md)                               |
-| BeerBoard Manual Inventory       | [README](src/projects/beerboard-manual-inventory/README.md)                |
-| Remify App                       | [README](src/projects/remify-app/README.md)                                |
 | Nutty App                        | [README](src/projects/nutty-app/README.md)                                 |
+| Remify App                       | [README](src/projects/remify-app/README.md)                                |
 | ddash - Docker Web Dashboard     | [GitHub](https://github.com/jesusandres31/ddash-docker-web-dashboard)      |
 | Ctes F5 Bot (Calendar, Whatsapp) | [README](src/projects/ctes-f5-wpp-bot/README.md)                           |
 | Coki-Demon Whatsapp-Bot          | [GitHub](https://github.com/jesusandres31/coki-demon/)                     |

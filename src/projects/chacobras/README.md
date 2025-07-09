@@ -1,4 +1,4 @@
-[< Back](../../README.md)
+[< Back](../../../README.md)
 
 ## Chat-Bot RAG [Chacobras S.A.](https://chacobras.com/)
 

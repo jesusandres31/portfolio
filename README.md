@@ -1,4 +1,8 @@
-# Projects 🚀
+> **⚠️ DEPRECATED: This repository is no longer maintained.**
+
+> I am not updating or supporting this repository anymore.
+
+## Projects 🚀
 
 | Project Name                     | Link                                                                       |
 | -------------------------------- | -------------------------------------------------------------------------- |
@@ -18,7 +22,7 @@
 
 ---
 
-# Diplomas 🎓
+## Diplomas 🎓
 
 | Diploma                                   | Link                                                 |
 | ----------------------------------------- | ---------------------------------------------------- |
@@ -30,18 +34,18 @@
 
 ---
 
-# IT Certifications 💻
+## IT Certifications 💻
 
 | Certifications                    | Link                                                                                     |
 | --------------------------------- | ---------------------------------------------------------------------------------------- |
 | AWS Certified Solutions Architect | [SAA-C03](https://www.credly.com/badges/7535d899-9c9c-4705-bb0a-c47fc706d832/public_url) |
-| AWS Certified AI Practitioner     | [CLF-C02](https://www.credly.com/badges/a26a09d1-f7fc-4364-aa07-d1fd67c9b372/public_url) |
-| AWS Certified Cloud Practitioner  | [AIF-C01](https://www.credly.com/badges/0f037eec-914c-48e6-b1cb-7fc87f0ce1c6/public_url) |
+| AWS Certified AI Practitioner     | [AIF-C01](https://www.credly.com/badges/a26a09d1-f7fc-4364-aa07-d1fd67c9b372/public_url) |
+| AWS Certified Cloud Practitioner  | [CLF-C02](https://www.credly.com/badges/0f037eec-914c-48e6-b1cb-7fc87f0ce1c6/public_url) |
 | EF SET (English cert)             | [EF SET](https://cert.efset.org/TKFvb6)                                                  |
 
 ---
 
-# Presentations 📑
+## Presentations 📑
 
 | Presentation                                                  | Link                                                                                    |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- |

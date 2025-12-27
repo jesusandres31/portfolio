@@ -56,3 +56,11 @@
 | Diseño de Arquitectura para Sistema de Monopatines Eléctricos | [README](src/presentations/DAA/readme.md)                                               |
 | SonarQube                                                     | [PDF](src/presentations/SonarQube.pdf)                                                  |
 | TOEFL. How the Internet works                                 | [PDF](src/presentations/TOEFL.%20How%20the%20Internet%20works.pdf)                      |
+
+---
+
+## Publications 📝
+
+| Title                                                 | Link                                                                                                               |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Adapting GitOps Practices for Small Development Teams | [Medium](https://medium.com/@jesusandreszini14/adapting-gitops-practices-for-small-development-teams-89bfd2c9eafb) |

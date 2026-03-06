@@ -26,6 +26,8 @@
 
 | Diploma                                   | Link                                                 |
 | ----------------------------------------- | ---------------------------------------------------- |
+| Master's Degree in Information Technology | [PDF](src/diplomas/MTI.diploma.pdf)                  |
+| Specialization in Information Technology  | [PDF](src/diplomas/ETI.diploma.pdf)                  |
 | Data Science Diploma                      | [PDF](src/diplomas/Zini_Jesus_Andres_diplodatos.pdf) |
 | Information Systems Technology Specialist | [PDF](src/diplomas/titulo-especializacion.pdf)       |
 | Information Systems Degree                | [PDF](src/diplomas/titulo.zini_jesus_andres.pdf)     |

@@ -38,12 +38,13 @@
 
 ## IT Certifications 💻
 
-| Certifications                    | Link                                                                                     |
-| --------------------------------- | ---------------------------------------------------------------------------------------- |
-| AWS Certified Solutions Architect | [SAA-C03](https://www.credly.com/badges/7535d899-9c9c-4705-bb0a-c47fc706d832/public_url) |
-| AWS Certified AI Practitioner     | [AIF-C01](https://www.credly.com/badges/a26a09d1-f7fc-4364-aa07-d1fd67c9b372/public_url) |
-| AWS Certified Cloud Practitioner  | [CLF-C02](https://www.credly.com/badges/0f037eec-914c-48e6-b1cb-7fc87f0ce1c6/public_url) |
-| EF SET (English cert)             | [EF SET](https://cert.efset.org/TKFvb6)                                                  |
+| Certifications                                | Link                                                                                     |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| AWS Certified Data Engineer - Associate       | [DEA-C01](https://www.credly.com/badges/f4437423-5205-4990-9153-a5e2de01fccd/public_url) |
+| AWS Certified Solutions Architect - Associate | [SAA-C03](https://www.credly.com/badges/7535d899-9c9c-4705-bb0a-c47fc706d832/public_url) |
+| AWS Certified AI Practitioner                 | [AIF-C01](https://www.credly.com/badges/a26a09d1-f7fc-4364-aa07-d1fd67c9b372/public_url) |
+| AWS Certified Cloud Practitioner              | [CLF-C02](https://www.credly.com/badges/0f037eec-914c-48e6-b1cb-7fc87f0ce1c6/public_url) |
+| EF SET (English cert)                         | [EF SET](https://cert.efset.org/TKFvb6)                                                  |
 
 ---
 
